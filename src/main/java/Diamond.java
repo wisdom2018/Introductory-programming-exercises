@@ -3,6 +3,7 @@ public class Diamond {
         PrintDiamond printDiamond = new PrintDiamond();
         printDiamond. printCenteredTriangle(3);
         printDiamond.PrintSymmetricalDiamond(3);
+        printDiamond.PrintSymmetricalDiamondWithName(3);
     }
 
 }
